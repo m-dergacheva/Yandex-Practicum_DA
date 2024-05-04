@@ -4,7 +4,7 @@
 <a href="https://github.com/m-dergacheva/Yandex-Practicum_DA/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%B2_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5_%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D1%83_%D0%B2%D0%B5%D1%89%D0%B5%D0%B9.ipynb" target="_blank"><b>Исследование поведение пользователей в мобильном приложении по продаже/обмену вещей</b></a>
 <tr>
 <td><b>2)</b></td>
-<a href="https://nbviewer.jupyter.org/github/m-tolmachev/DataAnalysis-Yandex/blob/db7f5085cb6de230112c2a4caf12795668707f69/11%20-%20Machine%20Learning.ipynb](https://github.com/m-dergacheva/Yandex-Practicum_DA/blob/main/Yandex_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)" target="_blank"><b>Анализ_рынка_видеоигр;</b></a>
+<a href="https://github.com/m-dergacheva/Yandex-Practicum_DA/blob/main/Yandex_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb" target="_blank"><b>Анализ_рынка_видеоигр;</b></a>
 <td><b>3)</b></td> 
 <a href="https://github.com/m-dergacheva/Yandex-Practicum_DA/blob/main/SQL_%D0%9A%D0%BD%D0%B8%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD.ipynb" target="_blank"><b>Мини-кейс SQL:Книжный магазин</b></a>
 <tr>
